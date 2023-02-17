@@ -3,5 +3,33 @@
 * This file contains the CSS for index.html
 */
 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: 450px;
+
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 300%;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: black;
+  /*background-image: ; Update this!!!*/
+}
+
+p {
+  color:white;
   text-align: center;
 }
